@@ -6,11 +6,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SwiftStreamsTests/HelloTests.swift"
-            timestampString = "537569567.45561"
+            timestampString = "537570275.67554"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "14"
@@ -19,14 +19,14 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "SwiftStreamsTests.HelloTests.test_say_hello_to_sandro() -&gt; ()"
                   moduleName = "SwiftStreamsTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/caym7340/code/dojo/SwiftStreams/SwiftStreamsTests/HelloTests.swift"
-                  timestampString = "537569568.3896461"
+                  timestampString = "537570181.030099"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "14"
@@ -34,14 +34,14 @@
                   offsetFromSymbolStart = "169">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "implicit closure #2 : @autoclosure () throws -&gt; Swift.String in SwiftStreamsTests.HelloTests.test_say_hello_to_sandro() -&gt; ()"
                   moduleName = "SwiftStreamsTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/caym7340/code/dojo/SwiftStreams/SwiftStreamsTests/HelloTests.swift"
-                  timestampString = "537569568.3923"
+                  timestampString = "537570181.031671"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "14"
