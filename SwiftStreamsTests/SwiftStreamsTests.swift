@@ -1,11 +1,3 @@
-//
-//  SwiftStreamsTests.swift
-//  SwiftStreamsTests
-//
-//  Created by caym7340 on 13/01/2018.
-//  Copyright © 2018 tophe. All rights reserved.
-//
-
 import XCTest
 @testable import SwiftStreams
 

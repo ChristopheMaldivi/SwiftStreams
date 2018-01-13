@@ -12,6 +12,8 @@
 		C8156086200AA6F60082E358 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8156085200AA6F60082E358 /* Assets.xcassets */; };
 		C8156089200AA6F60082E358 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8156087200AA6F60082E358 /* Main.storyboard */; };
 		C8156095200AA6F60082E358 /* SwiftStreamsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8156094200AA6F60082E358 /* SwiftStreamsTests.swift */; };
+		C81560A0200AA7500082E358 /* Hello.swift in Sources */ = {isa = PBXBuildFile; fileRef = C815609F200AA7500082E358 /* Hello.swift */; };
+		C81560A2200AA7E50082E358 /* HelloTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C81560A1200AA7E50082E358 /* HelloTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +37,8 @@
 		C8156090200AA6F60082E358 /* SwiftStreamsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftStreamsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8156094200AA6F60082E358 /* SwiftStreamsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftStreamsTests.swift; sourceTree = "<group>"; };
 		C8156096200AA6F60082E358 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C815609F200AA7500082E358 /* Hello.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hello.swift; sourceTree = "<group>"; };
+		C81560A1200AA7E50082E358 /* HelloTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HelloTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +86,7 @@
 				C8156087200AA6F60082E358 /* Main.storyboard */,
 				C815608A200AA6F60082E358 /* Info.plist */,
 				C815608B200AA6F60082E358 /* SwiftStreams.entitlements */,
+				C815609F200AA7500082E358 /* Hello.swift */,
 			);
 			path = SwiftStreams;
 			sourceTree = "<group>";
@@ -89,6 +94,7 @@
 		C8156093200AA6F60082E358 /* SwiftStreamsTests */ = {
 			isa = PBXGroup;
 			children = (
+				C81560A1200AA7E50082E358 /* HelloTests.swift */,
 				C8156094200AA6F60082E358 /* SwiftStreamsTests.swift */,
 				C8156096200AA6F60082E358 /* Info.plist */,
 			);
@@ -198,6 +204,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C8156084200AA6F60082E358 /* ViewController.swift in Sources */,
+				C81560A0200AA7500082E358 /* Hello.swift in Sources */,
 				C8156082200AA6F60082E358 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -206,6 +213,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C81560A2200AA7E50082E358 /* HelloTests.swift in Sources */,
 				C8156095200AA6F60082E358 /* SwiftStreamsTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

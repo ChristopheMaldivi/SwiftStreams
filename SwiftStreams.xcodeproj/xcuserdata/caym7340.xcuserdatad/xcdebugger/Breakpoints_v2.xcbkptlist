@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftStreamsTests/HelloTests.swift"
+            timestampString = "537569567.45561"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "test_say_hello_to_sandro()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftStreamsTests.HelloTests.test_say_hello_to_sandro() -&gt; ()"
+                  moduleName = "SwiftStreamsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caym7340/code/dojo/SwiftStreams/SwiftStreamsTests/HelloTests.swift"
+                  timestampString = "537569568.3896461"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "169">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 : @autoclosure () throws -&gt; Swift.String in SwiftStreamsTests.HelloTests.test_say_hello_to_sandro() -&gt; ()"
+                  moduleName = "SwiftStreamsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caym7340/code/dojo/SwiftStreams/SwiftStreamsTests/HelloTests.swift"
+                  timestampString = "537569568.3923"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
