@@ -51,5 +51,85 @@
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftStreamsTests/SwiftStreamsTests.swift"
+            timestampString = "537657653.049335"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "test_list_items()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftStreamsTests/SwiftStreamsTests.swift"
+            timestampString = "537657653.049744"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "test_sort_by_price()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftStreamsTests/SwiftStreamsTests.swift"
+            timestampString = "537657653.0500261"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "test_sort_by_price()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftStreamsTests.SwiftStreamsTests.test_sort_by_price() -&gt; ()"
+                  moduleName = "SwiftStreamsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caym7340/code/dojo/SwiftStreams/SwiftStreamsTests/SwiftStreamsTests.swift"
+                  timestampString = "537657004.697349"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "427">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftStreamsTests.SwiftStreamsTests.Food, SwiftStreamsTests.SwiftStreamsTests.Food) -&gt; Swift.Bool in SwiftStreamsTests.SwiftStreamsTests.test_sort_by_price() -&gt; ()"
+                  moduleName = "SwiftStreamsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caym7340/code/dojo/SwiftStreams/SwiftStreamsTests/SwiftStreamsTests.swift"
+                  timestampString = "537657004.698997"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
