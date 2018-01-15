@@ -4,7 +4,7 @@ import XCTest
 // xcode kbd : https://developer.apple.com/library/content/documentation/IDEs/Conceptual/xcode_help-command_shortcuts/MenuCommands/MenuCommands014.html
 // java koan: https://github.com/benbaxter/java8-koans/blob/master/src/test/java/LessonD_Streams.java
 
-class SwiftStreamsTests: XCTestCase {
+class SwiftArrayTests: XCTestCase {
     
     class Food : Equatable {
         
@@ -18,7 +18,7 @@ class SwiftStreamsTests: XCTestCase {
             self.price = price
         }
         
-        static func ==(f1: SwiftStreamsTests.Food, f2: SwiftStreamsTests.Food) -> Bool {
+        static func ==(f1: SwiftArrayTests.Food, f2: SwiftArrayTests.Food) -> Bool {
             return f1.name == f2.name && f1.glutenFree == f2.glutenFree && f1.price == f2.price
         }
     }
